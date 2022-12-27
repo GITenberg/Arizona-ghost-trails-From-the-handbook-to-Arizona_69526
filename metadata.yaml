@@ -1,0 +1,24 @@
+_repo: Arizona-ghost-trails-From-the-handbook-to-Arizona_69526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hinton, Richard J.
+    gutenberg_agent_id: '55304'
+    url: http://www.gutenberg.org/2009/agents/55304
+description: ''
+gutenberg_issued: '2022-12-12'
+identifiers:
+  gutenberg: '69526'
+language: en
+pgterms:marc905: gbn0406251419
+pgterms:marc906: '1969'
+pgterms:marc907: US
+production_note: Krista Zaleski and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'United States: Frontier Book Co.,1969.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Arizona ghost trails: From the handbook to Arizona'
+url: http://www.gutenberg.org/ebooks/69526
